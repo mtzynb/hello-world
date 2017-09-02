@@ -1,2 +1,5 @@
-# hello-world
-it's my first repository in github . i hope to learn much here . i'm so excited to learn that what is git and github because i hear about them so muchhhh every where . 
+hiii humans ! ! !
+im neww !!
+im Zeynab from Iran ! 
+i love programming , i used to learn about front end , but now i code in java . i am so in love with java . 
+i hope we have so much fun together .
